@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktu_do_tai_chinh=self.webpackChunktu_do_tai_chinh||[]).push([[615],{5615:(t,e,n)=>{n.d(e,{Component:()=>h,loader:()=>a});n(1302);var i=n(6841),s=n(2846);const a=async()=>(await new Promise((t=>setTimeout(t,100))),{title:"T\u1ed5ng h\u1ee3p"}),h=()=>{let{title:t}=(0,i.f_)();return(0,s.jsxs)("p",{children:["Ph\u1ea7n n\u1ed9i dung c\u1ee7a ",t]})}}}]);
+//# sourceMappingURL=615.8d0b77f9.chunk.js.map

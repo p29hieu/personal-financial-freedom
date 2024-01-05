@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personal-financial-freedom/static/css/main.d228a23e.css",
+    "main.js": "/personal-financial-freedom/static/js/main.0a7bb08c.js",
+    "static/js/511.7b0a2bf7.chunk.js": "/personal-financial-freedom/static/js/511.7b0a2bf7.chunk.js",
+    "static/js/615.8d0b77f9.chunk.js": "/personal-financial-freedom/static/js/615.8d0b77f9.chunk.js",
+    "static/js/479.22363424.chunk.js": "/personal-financial-freedom/static/js/479.22363424.chunk.js",
+    "static/js/950.eafd67a0.chunk.js": "/personal-financial-freedom/static/js/950.eafd67a0.chunk.js",
+    "index.html": "/personal-financial-freedom/index.html",
+    "main.d228a23e.css.map": "/personal-financial-freedom/static/css/main.d228a23e.css.map",
+    "main.0a7bb08c.js.map": "/personal-financial-freedom/static/js/main.0a7bb08c.js.map",
+    "511.7b0a2bf7.chunk.js.map": "/personal-financial-freedom/static/js/511.7b0a2bf7.chunk.js.map",
+    "615.8d0b77f9.chunk.js.map": "/personal-financial-freedom/static/js/615.8d0b77f9.chunk.js.map",
+    "479.22363424.chunk.js.map": "/personal-financial-freedom/static/js/479.22363424.chunk.js.map",
+    "950.eafd67a0.chunk.js.map": "/personal-financial-freedom/static/js/950.eafd67a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d228a23e.css",
+    "static/js/main.0a7bb08c.js"
+  ]
+}
